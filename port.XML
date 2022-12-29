@@ -1,0 +1,7 @@
+<equalizationeffect>
+	<curve name="port">
+		<point f="20.000000000000" d="-50.191848754883"/>
+		<point f="40.390286733985" d="4.484413146973"/>
+		<point f="957.523673241435" d="-50.191848754883"/>
+	</curve>
+</equalizationeffect>
